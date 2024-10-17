@@ -2,5 +2,7 @@
 *.pkl
 *.svg
 !enveda_remove_duplicates_molformer_preprocessed.pkl
+!train_split_remove_duplicates_molformer.pkl
+!valid_split_remove_duplicates_molformer.pkl
 /models
 /scripts/wandb
