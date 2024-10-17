@@ -1,5 +1,6 @@
 *.pq
 *.pkl
 *.svg
+!enveda_remove_duplicates_molformer_preprocessed.pkl
 /models
 /scripts/wandb
