@@ -2,3 +2,4 @@
 *.pkl
 *.svg
 /models
+/scripts/wandb
