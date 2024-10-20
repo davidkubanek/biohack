@@ -5,3 +5,10 @@ Code for the BioxML Hackathon, where we address Enveda Challenge 2 on determinin
 We have the following pipeline:
 
 ![pipeline](framework.png)
+
+Enveda's team can run their testset using 
+```
+cd /scripts/
+
+python enveda_test.py "path/to/test.pq"
+```
