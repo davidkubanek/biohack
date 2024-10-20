@@ -10,5 +10,5 @@ Enveda's team can run their testset using
 ```
 cd /scripts/
 
-python enveda_test.py "path/to/test.pq"
+python enveda_test.py --dir "path/to/test.pq"
 ```
