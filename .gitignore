@@ -1,10 +1,11 @@
 *.pq
+data/*.pq
 *.svg
 /models
 /scripts/wandb
-*.pkl
 data/enveda_chemist_preprocessed.pkl
 data/enveda_chemist_preprocessed.pkl
 *.pkl
-!train_split_remove_duplicates_all_embeddings.pkl
-!valid_split_remove_duplicates_all_embeddings.pkl
+# !train_split_remove_duplicates_all_embeddings.pkl
+# !valid_split_remove_duplicates_all_embeddings.pkl
+data/*.pkl
