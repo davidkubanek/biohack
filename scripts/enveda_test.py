@@ -14,7 +14,7 @@ from args import test_args
 import pdb
 
 def eval_testdf(args):
-    df = pd.read_pickle(args.test_dir)
+    df = pd.read_parquet(args.dir)
     
     ### fp extraction
     df['ground_truth_fp'] = df['ground_truth_smiles'].apply(smiles_to_fingerprint)
