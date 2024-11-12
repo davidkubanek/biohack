@@ -9,3 +9,4 @@ data/enveda_chemist_preprocessed.pkl
 # !train_split_remove_duplicates_all_embeddings.pkl
 # !valid_split_remove_duplicates_all_embeddings.pkl
 data/*.pkl
+/mydata
